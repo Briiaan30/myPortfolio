@@ -29,6 +29,7 @@ export default function Hero() {
         <div className="hero__actions">
           <a href="#proyectos" className="button button--primary">Explorar mi trabajo <Icon name="down" size={18} /></a>
           <a href={profile.linkedin} className="text-link" target="_blank" rel="noopener noreferrer">Mi LinkedIn <Icon name="diagonal" size={17} /><span className="sr-only"> (abre en una nueva pestaña)</span></a>
+          <a href={profile.github} className="text-link" target="_blank" rel="noopener noreferrer">Mi GitHub <Icon name="github" size={18} /><span className="sr-only"> (abre en una nueva pestaña)</span></a>
         </div>
         <p className="hero__opportunity">Busco sumarme a un equipo como <strong>JavaScript Junior o Full Stack.</strong></p>
       </div>

@@ -6,7 +6,7 @@ Soy Brian Sarmiento, desarrollador web con foco en JavaScript y Python. También
 
 Este portfolio presenta mi perfil técnico y mi enfoque de desarrollo a través de un proyecto personal construido con React y Vite.
 
-[LinkedIn](https://www.linkedin.com/in/brian-sarmiento-b55aa6192/) · [Contacto por WhatsApp](https://wa.me/5493516790500)
+[GitHub](https://github.com/Briiaan30) · [LinkedIn](https://www.linkedin.com/in/brian-sarmiento-b55aa6192/) · [Contacto por WhatsApp](https://wa.me/5493516790500)
 
 ## El proyecto
 
@@ -20,7 +20,7 @@ El objetivo es ofrecer una presentación clara para quienes evalúan mi perfil p
 - **Navegación por secciones:** menú móvil y seguimiento de la sección activa con `IntersectionObserver`.
 - **Caso de estudio interactivo:** detalle del proyecto con su desafío, solución y decisiones técnicas, presentado en un diálogo nativo.
 - **Accesibilidad:** enlace para saltar al contenido, foco visible, navegación por teclado y respeto por la preferencia de movimiento reducido.
-- **Contacto directo:** acceso a LinkedIn y WhatsApp, con un mensaje inicial para conversar sobre oportunidades laborales.
+- **Contacto y código:** acceso a GitHub, LinkedIn y WhatsApp, con un mensaje inicial para conversar sobre oportunidades laborales.
 
 ## Tecnologías
 

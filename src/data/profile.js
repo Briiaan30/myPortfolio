@@ -7,7 +7,7 @@ export const profile = {
   whatsappLabel: "+54 9 351 679 0500",
   whatsappMessage: "Hola Brian, vi tu portfolio y me gustaría conversar sobre una oportunidad laboral.",
   linkedin: "https://www.linkedin.com/in/brian-sarmiento-b55aa6192/",
-  github: null,
+  github: "https://github.com/Briiaan30",
   resume: null,
 };
 
